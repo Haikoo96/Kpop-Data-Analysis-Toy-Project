@@ -1,4 +1,4 @@
-# **Allkpop & YouTube Data Scraper and Preprocessor**
+# **Allkpop & YouTube Data Scraping and Preprocessing**
 
 ### **Project Overview**
 This project is designed to scrape data from allkpop.com and YouTube, preprocess the scraped data using Named Entity Recognition (NER) models and regular expressions (regex), and structure it for further analysis or machine learning projects. By leveraging a sophisticated tech stack including transformers for NER, pandas for data manipulation, Selenium and BeautifulSoup for web scraping, and regex for text cleaning, this project aims to provide a robust pipeline for extracting and refining web data.
